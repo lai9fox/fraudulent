@@ -1,0 +1,24 @@
+{
+  "name": "fraudulent",
+  "version": "0.0.1",
+  "description": "to be defined...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lai9fox/fraudulent.git"
+  },
+  "keywords": [
+    "to",
+    "be",
+    "defined..."
+  ],
+  "author": "lai9fox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lai9fox/fraudulent/issues"
+  },
+  "homepage": "https://github.com/lai9fox/fraudulent#readme"
+}
